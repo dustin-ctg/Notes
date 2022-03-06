@@ -9,7 +9,7 @@
 - [x] Maria Business Cards
 
 
-##Fringe Show Notes
+## Fringe Show Notes
 
 - Elizabeth has the vendor
 - Front:
@@ -27,3 +27,13 @@
 1. You can walk around with a t-shirt
 2. We'll be putting our show info on boxes and carrying around shtuff
 3. Posters
+
+### Purple-Labeled Pics
+1. 0016
+2. 0032
+3. 0046
+4. 0049
+5. 0058
+6. 0067
+7. 0088
+8. 0114
