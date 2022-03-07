@@ -8,3 +8,4 @@
 - [x] Bea Business Cards
 - [x] Maria Business Cards
 
+[fringe notes](fringe-notes.md)
