@@ -1,11 +1,12 @@
-# Notes
+# CTG Notes
 
-### To Do 2.28.22
+## To Do 3.7.22
 - [ ] Confetti Bits Transfer Panel
 - [ ] Success Partner Link Page Setup
+- [ ] Crypto Post Setup
+- [ ] Rob Business Card Fix
+- [x] Ban Iran on CTG Server
 
-- [x] Confetti Bits Response
-- [x] Bea Business Cards
-- [x] Maria Business Cards
 
-[fringe notes](fringe-notes.md)
+#### [Fringe Notes](fringe-notes.md)
+#### [Markdown Cheat Sheet](markdown-cheatsheet.md)
