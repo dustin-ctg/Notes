@@ -3,6 +3,8 @@
 ## To Do 3.7.22
 - [ ] Confetti Bits Transfer Panel
 - [ ] Confetti Bits Import Search Feature
+- [ ] Confetti Bits Award Toggle Feature
+- [x] Confetti Bits Cookie Timestamp Patch
 - [ ] Success Partner Link Page Setup
 - [ ] Crypto Post Setup
 - [x] Rob Business Card Fix
