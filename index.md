@@ -30,5 +30,31 @@
 - [x] Give Opal a Headshot
 - [x] Give Angelica a Headshot
 
+
+```
+/**
+ * Markup Functions
+ */
+require_once ASTRA_THEME_DIR . 'inc/markup-extras.php';
+require_once ASTRA_THEME_DIR . 'inc/extras.php';
+require_once ASTRA_THEME_DIR . 'inc/blog/blog-config.php';
+require_once ASTRA_THEME_DIR . 'inc/blog/blog.php';
+require_once ASTRA_THEME_DIR . 'inc/blog/single-blog.php';
+
+/**
+ * Markup Files
+ */
+require_once ASTRA_THEME_DIR . 'inc/template-parts.php';
+require_once ASTRA_THEME_DIR . 'inc/class-astra-loop.php';
+require_once ASTRA_THEME_DIR . 'inc/class-astra-mobile-header.php';
+
+/**
+ * Functions and definitions.
+ */
+require_once ASTRA_THEME_DIR . 'inc/class-astra-after-setup-theme.php';
+
+```
+
+
 #### [Fringe Notes](fringe-notes.md)
 #### [Markdown Cheat Sheet](markdown-cheatsheet.md)
