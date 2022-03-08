@@ -1,4 +1,6 @@
-## Fringe Show Notes
+#### [Home](/index.md)
+
+# Fringe Show Notes
 
 - Elizabeth has the vendor
 - Front:
