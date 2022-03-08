@@ -54,5 +54,5 @@ require_once ASTRA_THEME_DIR . 'inc/class-astra-after-setup-theme.php';
 
 
 
-#### [Fringe Notes](fringe-notes.md)
-#### [Markdown Cheat Sheet](markdown-cheatsheet.md)
+#### [Fringe Notes](/fringe-notes.md)
+#### [Markdown Cheat Sheet](/markdown-cheatsheet.md)
