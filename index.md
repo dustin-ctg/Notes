@@ -53,6 +53,9 @@
 - [x] content-blog.php
 - [ ] blog/blog-layout.php
 - [ ] content-search.php
+- [x] inc/core/markup/class-astra-markup.php
+
+# **FOUND IT**
 
 **Functions and definitions.**
 
