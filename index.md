@@ -56,6 +56,7 @@
 - [x] inc/core/markup/class-astra-markup.php
 
 # **FOUND IT**
+## INC/CORE/COMMON-FUNCTIONS.PHP LINE 923 STARTS A FUNCTION THAT HOOKS INTO ASTRA_ARCHIVE_HEADER()
 
 **Functions and definitions.**
 
