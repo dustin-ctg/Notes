@@ -2,6 +2,7 @@
 
 ## To Do 3.7.22
 - [ ] Confetti Bits Transfer Panel
+- [ ] Bobby's Bandits Events Calendar
 - [ ] Confetti Bits Import Search Feature
 - [ ] Confetti Bits Award Toggle Feature
 - [x] Confetti Bits Cookie Timestamp Patch
