@@ -5,8 +5,8 @@
 - [ ] Confetti Bits Import Search Feature
 - [ ] Success Partner Link Page Setup
 - [ ] Crypto Post Setup
-- [ ] Rob Business Card Fix
-- [ ] Swap around a million people on the site
+- [x] Rob Business Card Fix
+- [x] Swap around a million people on the site
 - [ ] Admin Koopid Training
 - [ ] Processor Koopid Training
 - [ ] Crypto Closings Class
@@ -14,6 +14,19 @@
 - [x] Ban Iran on CTG Server
 - [x] Beatriz Rack Card
 
+### People/Headshots to Change
+- [x] Add Sandra
+- [x] Add Kaitlyn
+- [x] Add Bea
+- [x] Add Liah
+- [x] Add Susan
+- [x] Add Lizy
+- [x] Delete Kelly G
+- [x] Promote Jessica C
+- [x] Promote Lauren
+- [x] Promote Daniella
+- [x] Give Opal a Headshot
+- [x] Give Angelica a Headshot
 
 #### [Fringe Notes](fringe-notes.md)
 #### [Markdown Cheat Sheet](markdown-cheatsheet.md)
