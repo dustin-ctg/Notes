@@ -36,21 +36,23 @@
 ** Checking for astra_archive_header() **
 - [x] require_once ASTRA_THEME_DIR . 'inc/markup-extras.php';
 - [x] require_once ASTRA_THEME_DIR . 'inc/extras.php';
-- [ ] require_once ASTRA_THEME_DIR . 'inc/blog/blog-config.php';
-- [ ] require_once ASTRA_THEME_DIR . 'inc/blog/blog.php';
-- [ ] require_once ASTRA_THEME_DIR . 'inc/blog/single-blog.php';
+- [x] require_once ASTRA_THEME_DIR . 'inc/blog/blog-config.php';
+- [x] require_once ASTRA_THEME_DIR . 'inc/blog/blog.php';
+- [x] require_once ASTRA_THEME_DIR . 'inc/blog/single-blog.php';
 
 
-/**
- * Markup Files
- */
-require_once ASTRA_THEME_DIR . 'inc/template-parts.php';
-require_once ASTRA_THEME_DIR . 'inc/class-astra-loop.php';
-require_once ASTRA_THEME_DIR . 'inc/class-astra-mobile-header.php';
+** Markup Files **
+- [x] require_once ASTRA_THEME_DIR . 'inc/template-parts.php';
+- [ ] require_once ASTRA_THEME_DIR . 'inc/class-astra-loop.php';
+- [ ] require_once ASTRA_THEME_DIR . 'inc/class-astra-mobile-header.php';
 
-/**
- * Functions and definitions.
- */
+** Template Parts **
+- [x] content-blog.php
+- [ ] blog/blog-layout.php
+- [ ] content-search.php
+
+** Functions and definitions. **
+
 require_once ASTRA_THEME_DIR . 'inc/class-astra-after-setup-theme.php';
 
 
