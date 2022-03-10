@@ -53,6 +53,7 @@
 - One 5 lbs. bag makes about 100 cups of coffee
 - When ordering, just say the quantity and where it's going. We'll get one invoice
 - Get pics of the coffee machine
+- 676 Cherry St. Unit 2, Winter Park, FL 32789
 
 
 
