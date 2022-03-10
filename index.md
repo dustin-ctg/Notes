@@ -34,6 +34,16 @@
 - [x] Give Opal a Headshot
 - [x] Give Angelica a Headshot
 
+### Sales Folks
+- [x] Bailey
+- [x] Bea
+- [x] Chadlynn
+- [x] David
+- [x] Jacqueline
+- [x] Jen
+- [x] Luis
+- [x] Rob
+- [x] Robin
 
 ### Coffee Notes
 - Need info for where the beans are sourced
