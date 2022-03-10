@@ -35,6 +35,10 @@
 - [x] Give Angelica a Headshot
 
 
+###
+- [ ] Head to Aloma, Winter Park Courthouse
+
+
 
 **Checking for astra_archive_header()**
 - [x] require_once ASTRA_THEME_DIR . 'inc/markup-extras.php';
