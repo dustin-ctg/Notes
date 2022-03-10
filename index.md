@@ -35,7 +35,28 @@
 - [x] Give Angelica a Headshot
 
 
-###
+### Coffee Notes
+- Need info for where the beans are sourced
+- We're doing a valve, neato
+- I would like a flavor profile as well
+- Go to lineageroasting.com
+- Coffee 431 on their website for flavor profile and 
+- As long as we have the 
+- FDA requires either an address or a website address that displays the supplier
+- Other than that, it looks pretty rad
+- We'll have a couple canisters next to the neat coffee machine thing
+- Set up a separate account for each location
+- Roastar for bags, we're ordering probably like 500
+- 5 lbs. bag for mass production
+- We'll have bags in the office and online for agents mainly and in-office purchase
+- We'll lower the quantity to probably about 500 total per quearter or until we run out
+- One 5 lbs. bag makes about 100 cups of coffee
+- When ordering, just say the quantity and where it's going. We'll get one invoice
+- Get pics of the coffee machine
+
+
+
+### Passport
 - [ ] Head to Aloma, Winter Park Courthouse
 
 
