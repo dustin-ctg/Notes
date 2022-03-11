@@ -37,11 +37,11 @@
 ### Sales Folks
 - [x] Bailey
 - [x] Bea
-- [x] Chadlynn
-- [x] David
-- [x] Jacqueline
-- [x] Jen
-- [x] Luis
+- [ ] Chadlynn
+- [ ] David
+- [ ] Jacqueline
+- [ ] Jen
+- [ ] Luis
 - [x] Rob
 - [x] Robin
 
