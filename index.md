@@ -1,5 +1,6 @@
 #### [Fringe Notes](/fringe-notes.md)
 #### [Markdown Cheat Sheet](/markdown-cheat-sheet.md)
+#### [Franchise Notes](/franchise-notes.md)
 
 # CTG Notes
 
