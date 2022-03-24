@@ -3,36 +3,20 @@
 
 # CTG Notes
 
-## To Do 3.7.22
+## Confetti Bits Notifications Stuff
+
+- Notifications registered as a component in its component class in bp-notifications/classes/class-bp-notifications-component
+- The notifications component class extends the standard BP_Component class
+- "The ```extends```keyword is used to derive a class from another class. This is called inheritance. A derived class has all of the public and protected properties of the class that it is derived from."
+
+
+## To Do 3.24.22
 - [ ] Confetti Bits Transfer Panel
 - [ ] Bobby's Bandits Events Calendar
-- [ ] Confetti Bits Import Search Feature
-- [ ] Confetti Bits Award Toggle Feature
-- [x] Confetti Bits Cookie Timestamp Patch
 - [ ] Success Partner Link Page Setup
-- [ ] Crypto Post Setup
-- [x] Rob Business Card Fix
-- [x] Swap around a million people on the site
-- [ ] Admin Koopid Training
 - [ ] Processor Koopid Training
 - [ ] Crypto Closings Class
 - [ ] Value Vault Class
-- [x] Ban Iran on CTG Server
-- [x] Beatriz Rack Card
-
-### People/Headshots to Change
-- [x] Add Sandra
-- [x] Add Kaitlyn
-- [x] Add Bea
-- [x] Add Liah
-- [x] Add Susan
-- [x] Add Lizy
-- [x] Delete Kelly G
-- [x] Promote Jessica C
-- [x] Promote Lauren
-- [x] Promote Daniella
-- [x] Give Opal a Headshot
-- [x] Give Angelica a Headshot
 
 ### Sales Folks
 - [x] Bailey
@@ -71,6 +55,7 @@
 - [ ] Head to Aloma, Winter Park Courthouse
 
 
+### CTGLinks
 
 **Checking for astra_archive_header()**
 - [x] require_once ASTRA_THEME_DIR . 'inc/markup-extras.php';
