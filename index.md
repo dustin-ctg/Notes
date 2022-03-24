@@ -5,9 +5,13 @@
 
 ## Confetti Bits Notifications Stuff
 
-- Notifications registered as a component in its component class in bp-notifications/classes/class-bp-notifications-component
+- Notifications registered as a component in its component class in bp-notifications/classes/class-bp-notifications-component.php
 - The notifications component class extends the standard BP_Component class
-- "The ```extends```keyword is used to derive a class from another class. This is called inheritance. A derived class has all of the public and protected properties of the class that it is derived from."
+- "The ```extends``` keyword is used to derive a class from another class. This is called inheritance. A derived class has all of the public and protected properties of the class that it is derived from."
+- Component class is defined in bp-core/classes/class-bp-component.php
+- A new component needs: str $id, str $name, str $path, and array $params set up in the construct function
+- The way buddyboss builds the path is by trail slashing the plugin_dir_path to the plugin file and then the bp_source_subdirectory, which is just an empty string I guess? We could probably just do a trailing slashed stylesheet directory for this.
+- How do they increment their action ids and stuff in the database? That's wild
 
 
 ## To Do 3.24.22
