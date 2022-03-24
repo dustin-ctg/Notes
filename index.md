@@ -12,9 +12,12 @@
 - A new component needs: str $id, str $name, str $path, and array $params set up in the construct function
 - The way buddyboss builds the path is by trail slashing the plugin_dir_path to the plugin file and then the bp_source_subdirectory, which is just an empty string I guess? We could probably just do a trailing slashed stylesheet directory for this.
 - How do they increment their action ids and stuff in the database? That's wild
+- Maybe check some of their other component notifications files
+- There might be an incrementer in those functions somewhere
 
 
 ## To Do 3.24.22
+
 - [ ] Confetti Bits Transfer Panel
 - [ ] Bobby's Bandits Events Calendar
 - [ ] Success Partner Link Page Setup
