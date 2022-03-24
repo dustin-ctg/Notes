@@ -27,7 +27,7 @@
 1. Emails
 2. Pics
 3. Address
-4. Direct Email - housoninfo@celebrationtitlegroup.com
+4. Direct Email - houstoninfo@celebrationtitlegroup.com
 5. Google Verification
 6. Any additional info
 
