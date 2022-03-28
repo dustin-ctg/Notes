@@ -106,4 +106,5 @@ require_once ASTRA_THEME_DIR . 'inc/class-astra-after-setup-theme.php';
 - [ ] Confetti Bits Transfer Panel
 - [ ] Learn how to do closings
 - [ ] Any CTG-Houston edits
+- [ ] Send Ali training vids
 
