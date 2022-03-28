@@ -92,5 +92,8 @@ INC/CORE/COMMON-FUNCTIONS.PHP LINE 923 starts a function that hooks into ASTRA_A
 require_once ASTRA_THEME_DIR . 'inc/class-astra-after-setup-theme.php';
 
 
+## Sales & Marketing Stuff 3.28.22
 
+- Spirit animals???
+- I just said my fav animal is an elephant
 
