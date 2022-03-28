@@ -107,4 +107,5 @@ require_once ASTRA_THEME_DIR . 'inc/class-astra-after-setup-theme.php';
 - [ ] Any CTG-Houston edits
 - [ ] Send Ali training vid repository
 - [ ] Coffee Bag stuff
+- [x] Spanish CTG Rack Card
 
