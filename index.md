@@ -96,4 +96,14 @@ require_once ASTRA_THEME_DIR . 'inc/class-astra-after-setup-theme.php';
 
 - Spirit animals???
 - I just said my fav animal is an elephant
+- Koopid/Gail stuff
+- Chat bot net sheets go to Rob & Robin now
+- Gail marketing stuff goes out April 11th
+
+### To-Do Stuff
+
+- [ ] Confetti Bits Notifications
+- [ ] Confetti Bits Transfer Panel
+- [ ] Learn how to do closings
+- [ ] Any CTG-Houston edits
 
