@@ -153,11 +153,15 @@ Challenges:
 - Loads of bug reports and dev requests, seriously so many random emails about things either not working properly or updates people want to (insert website here).com
 
 Misc updates/notes:
-Edited a lot of super cool pics for Fringe show!
+---
+- Edited a lot of super cool pics for Fringe show!
+
 Candy Bag items
-Text notifications for events
-Email notifications for events
+---
+- Text notifications for events
+- Email notifications for events
+
 Any classes/courses/education you took this week and what you got out of it!
+---
 I've been reading through tons and tons and tons of code, and I've narrowed down some more key things that help build some components for TeamCTG
-Learning a million and one things about object-oriented programming
-I've built the object for one component for Confetti Bits notifications, so now I need to add some functionality and extra methods
+Learning a million and one things about object-oriented programming. I've also built the object for a Confetti Bits notifications component, so now I need to add some functionality and extra methods, and we should be good to go!
