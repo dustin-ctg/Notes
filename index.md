@@ -110,3 +110,42 @@ require_once ASTRA_THEME_DIR . 'inc/class-astra-after-setup-theme.php';
 - [ ] Coffee Bag stuff
 - [x] Spanish CTG Rack Card
 
+### 4.4.22
+
+- Wins this week:
+- I've made a lot of progress on Confetti Bits Notifications
+- CTG Links is fully live
+- Our SEO is outstanding
+Here's the to do list of stuff I started the week with, and their statuses
+Done:
+Made progress on Confetti Bits notifications
+Franchise page tweaks
+Create the rest of the SP pages
+Not done:
+Make progress on Confetti Bits transfer
+Here's a list of stuff that got added on over the week (this is the "unseen" and/or last-minute stuff I'm always talking about):
+Done:
+Fielded a lot of TeamCTG bug reports
+Verified several more locations on Google
+Continue filtering through bug reports
+Not done:
+I need to upload a few Celebrate U classes that are sitting in my inbox
+Must do:
+Confetti bits notifications update
+5 goals:
+Not lose sanity
+Start getting some functionality from Confetti Bits Notifications
+Set schedule for CTG site updates; get Anika to compile them into a list for EOM changes
+Refer people to bug report system and/or make form submission for bug reports
+Send ins-and-outs of including a franchise location on GatherUp to Laurel
+Challenges:
+Loads of bug reports and dev requests, seriously so many random emails about things either not working properly or updates people want to (insert website here).com
+Misc updates/notes:
+Edited a lot of super cool pics for Fringe show!
+Candy Bag items
+Text notifications for events
+Email notifications for events
+Any classes/courses/education you took this week and what you got out of it!
+I've been reading through tons and tons and tons of code, and I've narrowed down some more key things that help build some components for TeamCTG
+Learning a million and one things about object-oriented programming
+I've built the object for one component for Confetti Bits notifications, so now I need to add some functionality and extra methods
