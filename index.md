@@ -198,7 +198,7 @@ Here's a list of **stuff that got added on** over the week (this is the "unseen"
 Must do:
 ---
 - [ ] Confetti bits notifications update
-- [ ] Send Ali instructions for Google verification
+- [x] Send Ali instructions for Google verification
 
 5 goals:
 ---
@@ -228,4 +228,21 @@ Any classes/courses/education you took this week and what you got out of it!
 - I learned how to create and implement action and filter hooks
 - I learned a better way to autoload classes to make them publicly accessible throughout the program
 - I learned a million new functions and how to hook into them to build onto TeamCTG even more
+
+
+
+### "Focusing on Urgency"
+- Focus on what's important
+- Ask questions like "What is the absolute dead date you need this by?"
+- We have a lot of things open but no absolute deadlines
+- Generally with projects and when we're asked, we determine deadlines according to us, and don't typically ask when their deadline is
+- We usually have to create things when people ask us for something
+
+
+#### Pending
+- Boxes are back
+- 
+
+
+
 
