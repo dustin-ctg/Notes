@@ -95,7 +95,7 @@ require_once ASTRA_THEME_DIR . 'inc/class-astra-after-setup-theme.php';
 
 ## Sales & Marketing Stuff 3.28.22
 
-- Spirit animals???
+- ~~Spirit animals???~~
 - I just said my fav animal is an elephant
 - Koopid/Gail stuff
 - Chat bot net sheets go to Rob & Robin now
@@ -165,3 +165,67 @@ Any classes/courses/education you took this week and what you got out of it!
 ---
 I've been reading through tons and tons and tons of code, and I've narrowed down some more key things that help build some components for TeamCTG
 Learning a million and one things about object-oriented programming. I've also built the object for a Confetti Bits notifications component, so now I need to add some functionality and extra methods, and we should be good to go!
+
+
+#### Gail marketing stuff goes out April 11th
+
+
+Wins this week:
+---
+- We had a shoot on Thursday that I think we got a lot of good footage from
+
+Here's the to do list of stuff I **started the week with**, and their statuses
+---
+
+**Done:**
+- Made progress on Confetti Bits notifications
+
+**Not done:**
+- Make progress on Confetti Bits transfer panel
+
+Here's a list of **stuff that got added on** over the week (this is the "unseen" and/or last-minute stuff I'm always talking about):
+---
+
+**Done:**
+- Learned how to balance the gimbal on Wednesday
+- Helped shoot on Thursday
+- Got a decent number of videos onto Houton SharePoint
+
+**Not done:**
+- I need to upload a few Celebrate U classes that are sitting in my inbox
+- I need to send Ali instructions for Google verification
+
+Must do:
+---
+- [ ] Confetti bits notifications update
+- [ ] Send Ali instructions for Google verification
+
+5 goals:
+---
+- Not lose sanity
+- Start getting more functionality from Confetti Bits Notifications
+- Set schedule for CTG site updates; get Anika to compile them into a list for EOM changes
+- Refer people to bug report system and/or make form submission for bug reports
+- Get Houston on Google
+
+Challenges:
+---
+- Object-oriented programming is a travesty of a programming paradigm, and it should burn in hell
+- I lost a couple days this week helping out with some other stuff, but should be back on track now
+
+Misc updates/notes:
+---
+- I changed my brakes! I am also entirely out of money. But the main thing is that I have new brakes now.
+- I'm learning a lot about object-oriented programming, which is a grueling but ultimately very useful skill.
+
+Candy Bag items
+---
+- The big QR code campaign
+
+Any classes/courses/education you took this week and what you got out of it!
+---
+- I've almost completely hooked Confetti Bits into the TeamCTG platform
+- I learned how to create and implement action and filter hooks
+- I learned a better way to autoload classes to make them publicly accessible throughout the program
+- I learned a million new functions and how to hook into them to build onto TeamCTG even more
+
