@@ -103,11 +103,11 @@ require_once ASTRA_THEME_DIR . 'inc/class-astra-after-setup-theme.php';
 
 ### To-Do Stuff
 
-- [ ] Confetti Bits Notifications
+- [x] Confetti Bits Notifications
 - [ ] Confetti Bits Transfer Panel
-- [ ] Any CTG-Houston edits
-- [ ] Send Ali training vid repository
-- [ ] Coffee Bag stuff
+- [x] Any CTG-Houston edits
+- [x] Send Ali training vid repository
+- [x] Coffee Bag stuff
 - [x] Spanish CTG Rack Card
 
 ### 4.4.22
@@ -241,8 +241,25 @@ Any classes/courses/education you took this week and what you got out of it!
 
 #### Pending
 - Boxes are back
-- 
 
+
+### What Comes Next?
+
+**We Need:**
+- Disaster recovery protocol for exposed data
+- Disaster recovery protocol for lost data
+- Risk assessment and risk management for data
+- Uncover mission critical: what is the most valuable data we have?
+- Run book in case I get hit by a bus
+- Put instructions for how to use and operate the infrastructure
+
+We should:
+- Assess risk priority, what's more important data than others, not mission critical
+- Established tiered data for different retention policies (monthly, daily, specific files)
+- Decide how far back we can go without losing money, and how much we are willing to spend to get it back
+- Get someone to sign off on the policies, the run books, and let someone decide where they want to land on the volcano
+- Make a ticketing system to field and prioritize requests
+- Eventually build a plan for backups, schedules for backups and/or worst case scenarios, and security protocols for personally identifiable information
 
 
 
