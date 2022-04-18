@@ -229,8 +229,6 @@ Any classes/courses/education you took this week and what you got out of it!
 - I learned a better way to autoload classes to make them publicly accessible throughout the program
 - I learned a million new functions and how to hook into them to build onto TeamCTG even more
 
-
-
 ### "Focusing on Urgency"
 - Focus on what's important
 - Ask questions like "What is the absolute dead date you need this by?"
@@ -241,7 +239,6 @@ Any classes/courses/education you took this week and what you got out of it!
 
 #### Pending
 - Boxes are back
-
 
 ### What Comes Next?
 
@@ -261,5 +258,9 @@ We should:
 - Make a ticketing system to field and prioritize requests
 - Eventually build a plan for backups, schedules for backups and/or worst case scenarios, and security protocols for personally identifiable information
 
+#### Bits Requests
+- Allow for 2-3 weeks for fulfillment
+- Transfer panel
+- Search feature for imports
 
 
