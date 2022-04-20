@@ -263,4 +263,71 @@ We should:
 - Transfer panel
 - Search feature for imports
 
+Marketing Movements with Dana
+---
+
+# 2022 Updates
+- What's going to happen to Twitter?
+- Is Netflix going to have an ad-supported level?
+- What's going on with the less-filter no-edits movement?
+- How much more can social selling grow?
+- Is social engagement sincerely plateauing?
+
+# How's It Been Going?
+- Implementing a lot of SEO practices
+- New time management system
+- I'm absolutely a reader
+- We're moving a lot toward data security and public presence
+- I've committed to learning at least something each day
+
+# Q2 Professional Development Focus
+- State of CTG, and what it means for Marketing
+- Working attitude characterized by resourcefulness, productivity, and efficiency
+
+## Quick & Clever
+- [ ] Watch an episode of Amazing Race
+- [ ] Watch how their attention (or inattention) to resourcefulness affects their performance
+- What's a resourceful way to ask the same question?
+- How can we make something dreadful into something different?
+
+## Productive Achievement
+- This can encourage people to value ***volume*** over ***quality***
+
+### Doing Things to 92%
+Normally, when your house is 92% clean, it's not too much distinguishable from your house being 100% clean. 92% is an A! Aim for 92%. Think about productivity in the same way. Operate at a level where you're getting a lot of ***good*** work done. No more perfection! 
+
+## Minimizing Waste
+That's it. That's efficiency. What waste's time? Get rid of it! Get rid of the social apps or notifications, or whatever it is. What is wasting your time? (I'm doing pretty good with this actually!)
+
+## Pareto Principle
+
+### The 80-20 Rule
+80% of the peas in the garden were coming from 20% of the plants. 80% of the wealth is owned by 20% of the people. How can we use the 80-20 rule? How do we be the 20? 80% of 40 hours is 32 hours (4 work days). 80% of a work day is 6.5 hours. Spend 80% of time on the Asana board stuff. Spend 20% on candy bag stuff. 20% is business-changing, 80% is business-survival
+
+## Characteristics of an Owner's Mentality
+- Committed to quality and success
+- Innovation pursuant
+
+### What does that look like tactically?
+- Being present and on time
+- Showing up mentally
+- Managing personal/professional balance
+- Quality control
+
+#### Finishing
+- If it's the athletic mindset, when is it done?
+- If it's crafty or gifty, when do you put the bow on it?
+- If it's Marie Kondo, when is it organized and tidy?
+- If it's cleaning, what do vacuum lines look like in your work?
+
+# What Resonated Today?
+- Working Attitude Characterized by resourcefulness, productivity, and efficiency
+
+#### Candy Bag Items
+- 
+
+
+
+
+
 
