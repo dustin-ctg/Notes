@@ -1,78 +1,98 @@
-<head></head>
+<head>
+  <link rel="stylesheet" href="https://use.typekit.net/tnv7tsi.css">
+</head>
 <body>
-  <div>
-    <ul>
-      <li><a href="/fringe-notes.md">Fringe Notes</a></li>
-      <li><a href="/markdown-cheat-sheet.md">Markdown Cheat Sheet</a></li>
-      <li><a href="/franchise-notes.md">Franchise Notes</a></li>
-      <li><a href="/weekly-updates.md">Weekly Updates</a></li>
+  <div class="nav-list-container">
+    <ul class="nav-list">
+      <li class="nav-list-item"><a class="nav-list-link" href="/fringe-notes.md">Fringe Notes</a></li>
+      <li class="nav-list-item"><a class="nav-list-link" href="/markdown-cheat-sheet.md">Markdown Cheat Sheet</a></li>
+      <li class="nav-list-item"><a class="nav-list-link" href="/franchise-notes.md">Franchise Notes</a></li>
+      <li class="nav-list-item"><a class="nav-list-link" href="/weekly-updates.md">Weekly Updates</a></li>
     </ul>
   </div>
   
   <h1>CTG Notes</h1>
 
   <h2>Confetti Bits Notifications Stuff</h2>
-  <ul>
-    <li>Notifications registered as a component in its component class in bp-notifications/classes/class-bp-notifications-component.php</li>
-    <li> The notifications component class extends the standard BP_Component class</li>
-    <li> "The ```extends``` keyword is used to derive a class from another class. This is called inheritance. A derived class has all of the public and protected properties of the class that it is derived from."</li>
-    <li> Component class is defined in bp-core/classes/class-bp-component.php</li>
-    <li> A new component needs: str $id, str $name, str $path, and array $params set up in the construct function</li>
-    <li> The way buddyboss builds the path is by trail slashing the plugin_dir_path to the plugin file and then the bp_source_subdirectory, which is just an empty string I guess? We could probably just do a trailing slashed stylesheet directory for this.</li>
-    <li> How do they increment their action ids and stuff in the database? That's wild</li>
-    <li> Maybe check some of their other component notifications files</li>
-    <li> There might be an incrementer in those functions somewhere</li>
+  <ul class="standard-list">
+    <li class="standard-list-item">Notifications registered as a component in its component class in bp-notifications/classes/class-bp-notifications-component.php</li>
+    <li class="standard-list-item"> The notifications component class extends the standard BP_Component class</li>
+    <li class="standard-list-item"> "The ```extends``` keyword is used to derive a class from another class. This is called inheritance. A derived class has all of the public and protected properties of the class that it is derived from."</li>
+    <li class="standard-list-item"> Component class is defined in bp-core/classes/class-bp-component.php</li>
+    <li class="standard-list-item"> A new component needs: str $id, str $name, str $path, and array $params set up in the construct function</li>
+    <li class="standard-list-item"> The way buddyboss builds the path is by trail slashing the plugin_dir_path to the plugin file and then the bp_source_subdirectory, which is just an empty string I guess? We could probably just do a trailing slashed stylesheet directory for this.</li>
+    <li class="standard-list-item"> How do they increment their action ids and stuff in the database? That's wild</li>
+    <li class="standard-list-item"> Maybe check some of their other component notifications files</li>
+    <li class="standard-list-item"> There might be an incrementer in those functions somewhere</li>
   </ul>
 
 
   <h2>To Do 3.24.22</h2>
-  <ul>
-    <li> [ ] Confetti Bits Transfer Panel</li>
-    <li> [ ] Bobby's Bandits Events Calendar</li>
-    <li> [ ] Success Partner Link Page Setup</li>
-    <li> [ ] Processor Koopid Training</li>
-    <li> [ ] Crypto Closings Class</li>
-    <li> [ ] Value Vault Class</li>
+  <ul class="to-do-list">
+    <li class="to-do-list-item">
+      <input type="checkbox" name="cb-1" value="">
+      <label for="cb-1"> Confetti Bits Transfer Panel</label>
+    </li>
+    <li class="to-do-list-item">
+      <input type="checkbox" name="cb-1" value="">
+      <label for="cb-1"> Bobby's Bandits Events Calendar</label>
+    </li>
+    <li class="to-do-list-item"> 
+      <input type="checkbox" name="cb-1" value="">
+      <label for="cb-1"> Success Partner Link Page Setup</label>
+    </li>
+    <li class="to-do-list-item">
+      <input type="checkbox" name="cb-1" value="">
+      <label for="cb-1"> Processor Koopid Training</label>
+    </li>
+    <li class="to-do-list-item">
+      <input type="checkbox" name="cb-1" value="">
+      <label for="cb-1"> Crypto Closings Class</label>
+    </li>
+    <li class="to-do-list-item">
+      <input type="checkbox" name="cb-1" value="">
+      <label for="cb-1"> Crypto Closings Class</label></li>
   </ul>
+
   <h3>Sales Folks</h3>
-  <ul>
-    <li> [x] Bailey</li>
-    <li> [x] Bea</li>
-    <li> [x] Chadlynn</li>
-    <li> [x] David</li>
-    <li> [x] Jacqueline</li>
-    <li> [x] Jen</li>
-    <li> [x] Jody</li>
-    <li> [x] Luis</li>
-    <li> [x] Rob</li>
-    <li> [x] Robin</li>
+  <ul class="to-do-list">
+    <li class="to-do-list-item"> [x] Bailey</li>
+    <li class="to-do-list-item"> [x] Bea</li>
+    <li class="to-do-list-item"> [x] Chadlynn</li>
+    <li class="to-do-list-item"> [x] David</li>
+    <li class="to-do-list-item"> [x] Jacqueline</li>
+    <li class="to-do-list-item"> [x] Jen</li>
+    <li class="to-do-list-item"> [x] Jody</li>
+    <li class="to-do-list-item"> [x] Luis</li>
+    <li class="to-do-list-item"> [x] Rob</li>
+    <li class="to-do-list-item"> [x] Robin</li>
   </ul>
   
   <h3>Coffee Notes</h3>
-  <ul>
-    <li> Need info for where the beans are sourced</li>
-    <li> We're doing a valve, neato</li>
-    <li> I would like a flavor profile as well</li>
-    <li> Go to lineageroasting.com</li>
-    <li> Coffee 431 on their website for flavor profile and </li>
-    <li> As long as we have the </li>
-    <li> FDA requires either an address or a website address that displays the supplier</li>
-    <li> Other than that, it looks pretty rad</li>
-    <li> We'll have a couple canisters next to the neat coffee machine thing</li>
-    <li> Set up a separate account for each location</li>
-    <li> Roastar for bags, we're ordering probably like 500</li>
-    <li> 5 lbs. bag for mass production</li>
-    <li> We'll have bags in the office and online for agents mainly and in-office purchase</li>
-    <li> We'll lower the quantity to probably about 500 total per quearter or until we run out</li>
-    <li> One 5 lbs. bag makes about 100 cups of coffee</li>
-    <li> When ordering, just say the quantity and where it's going. We'll get one invoice</li>
-    <li> Get pics of the coffee machine</li>
-    <li> 676 Cherry St. Unit 2, Winter Park, FL 32789</li>
+  <ul class="standard-list">
+    <li class="standard-list-item"> Need info for where the beans are sourced</li>
+    <li class="standard-list-item"> We're doing a valve, neato</li>
+    <li class="standard-list-item"> I would like a flavor profile as well</li>
+    <li class="standard-list-item"> Go to lineageroasting.com</li>
+    <li class="standard-list-item"> Coffee 431 on their website for flavor profile and </li>
+    <li class="standard-list-item"> As long as we have the </li>
+    <li class="standard-list-item"> FDA requires either an address or a website address that displays the supplier</li>
+    <li class="standard-list-item"> Other than that, it looks pretty rad</li>
+    <li class="standard-list-item"> We'll have a couple canisters next to the neat coffee machine thing</li>
+    <li class="standard-list-item"> Set up a separate account for each location</li>
+    <li class="standard-list-item"> Roastar for bags, we're ordering probably like 500</li>
+    <li class="standard-list-item"> 5 lbs. bag for mass production</li>
+    <li class="standard-list-item"> We'll have bags in the office and online for agents mainly and in-office purchase</li>
+    <li class="standard-list-item"> We'll lower the quantity to probably about 500 total per quearter or until we run out</li>
+    <li class="standard-list-item"> One 5 lbs. bag makes about 100 cups of coffee</li>
+    <li class="standard-list-item"> When ordering, just say the quantity and where it's going. We'll get one invoice</li>
+    <li class="standard-list-item"> Get pics of the coffee machine</li>
+    <li class="standard-list-item"> 676 Cherry St. Unit 2, Winter Park, FL 32789</li>
   </ul>
 
 
 <h3>Passport<h3>
-- [ ] Head to Aloma, Winter Park Courthouse
+- [x] Head to Aloma, Winter Park Courthouse
 
 
 <h3>CTGLinks<h3>
@@ -99,9 +119,9 @@
 <h3>FOUND IT<h3>
 INC/CORE/COMMON-FUNCTIONS.PHP LINE 923 starts a function that hooks into ASTRA_ARCHIVE_HEADER()
 
-**Functions and definitions.**
+<p>Functions and definitions.</p>
 
-require_once ASTRA_THEME_DIR . 'inc/class-astra-after-setup-theme.php';
+<p><code>require_once ASTRA_THEME_DIR . 'inc/class-astra-after-setup-theme.php';</code></p>
 
 
 
