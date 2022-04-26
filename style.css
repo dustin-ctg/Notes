@@ -2,6 +2,10 @@ body {
  font-family:bree-serif, sans-serif;
  color:#2a2a2a;
  padding:30px;
+}
+
+.corkboard {
+ width:100%;
  display:flex;
  flex-flow:row wrap;
  justify-content:center;
