@@ -17,7 +17,7 @@ h2, h4, h6 {
 }
 
 .corkboard {
- width:100%;
+ max-width:400px;
  display:flex;
  flex-flow:column wrap;
  justify-content:space-evenly;
@@ -40,7 +40,7 @@ h1:after {
 
 
 .info-block {
- flex: 0 0 400px;
+ flex: 1 1 400px;
  margin:1rem;
  border: 2px solid #dbb778;
  border-radius:20px;
