@@ -16,12 +16,6 @@ h2, h4, h6 {
  text-transform:uppercase;
 }
 
-.corkboard {
- display:flex;
- flex-flow:row wrap;
- justify-content:space-evenly;
-}
-
 h1 {
  text-align:center;
 }
@@ -35,7 +29,26 @@ h1:after {
  margin:auto;
 }
 
+h4:after {
+ content:"";
+ width:100%;
+ height:2px;
+ max-width:200px;
+ margin-top:3px;
+ background-color:#dbb778;
+ display:block;
+}
 
+.corkboard {
+ display:flex;
+ flex-flow:row wrap;
+ justify-content:space-evenly;
+}
+
+.standard-list-item {
+ padding:3px;
+ color:#2a2a2a;
+}
 
 .info-block {
  flex: 1 1 400px;
